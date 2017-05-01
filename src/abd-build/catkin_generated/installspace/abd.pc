@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: abd
+Description: Description of abd
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib -labd
+Requires: roscpp sensor_msgs std_msgs message_runtime

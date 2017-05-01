@@ -1,0 +1,2 @@
+set(abd_MESSAGE_FILES "/home/kuuve/catkin_ws/src/abd/msg/Data.msg;/home/kuuve/catkin_ws/src/abd/msg/Breakpoint.msg")
+set(abd_SERVICE_FILES "")
